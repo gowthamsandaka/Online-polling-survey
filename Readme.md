@@ -8,7 +8,7 @@
 1. **Clone the application**
 
 	```bash
-	git clone https://github.com/callicoder/spring-security-react-ant-design-polls-app.git
+	git clone https://github.com/gowthamsandaka/Online-polling-survey.git
 	cd polling-app-server
 	```
 
