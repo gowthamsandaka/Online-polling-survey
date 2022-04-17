@@ -1,6 +1,5 @@
 ## Building a Full Stack Polls app similar to twitter polls with Spring Boot, Spring Security, JWT, React and Ant Design
 
-![App Screenshot](screenshot.png)
 
 
 ## Steps to Setup the Spring Boot Back end app (polling-app-server)
